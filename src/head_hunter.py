@@ -61,7 +61,7 @@ class HeadHunter(ApiVacancy):
             general_vacancy = {
                 "title": vacancy['name'],
                 "employer": vacancy["employer"]["name"],
-                "url": vacancy["apply_alternate_url"],
+                "url": vacancy["alternate_url"],
                 "description": vacancy["snippet"]["responsibility"]
             }
             salary = vacancy["salary"]
