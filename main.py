@@ -1,4 +1,4 @@
-from src.json_saver import JSONWorker
+from src.json_worker import JSONWorker
 from src.head_hunter import HeadHunter
 from src.super_job import SuperJob
 from src.utils import print_vacancies
