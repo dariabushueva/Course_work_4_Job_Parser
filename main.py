@@ -1,7 +1,7 @@
-from src.json_saver import JSONSaver
+from src.json_saver import JSONWorker
 from src.head_hunter import HeadHunter
 from src.super_job import SuperJob
-from src.vacancy import Vacancy
+from src.utils import print_vacancies
 
 
 def main():
@@ -10,42 +10,57 @@ def main():
                         "1 - HeadHanter.ru,\n"
                         "2 - SuperJob.ru\n"))
 
-    select_vacancy = "python"  # input("Введите название вакансии: \n")
-    select_city = "Москва"  # input("Введите город поиска: \n")
-    select_pages = 1  # int(input("Введите количество страниц поиска\n"))
+    select_vacancy = input("Введите название вакансии: \n")
+    select_pages = input("Введите количество страниц поиска\n"
+                         "Или нажмите Enter для поиска всех вакансий на сайте\n")
 
     vacancies_json = []
 
     if select_site == 1:
 
-        hh = HeadHunter(select_vacancy+select_city)
-        hh.get_vacancies(select_pages)
+        hh = HeadHunter(select_vacancy)
+        if select_pages == '':
+            hh.get_vacancies()
+        else:
+            hh.get_vacancies(int(select_pages))
         vacancies_json.extend(hh.generalization())
-        json_saver = JSONSaver(vacancies_json)
-        all_vacancies = json_saver.read_vacancy()
-
-    #    vacancies_json.clear()
-    #    select_salary = int(input("Введите желаемую зп\n:"))
-    #    salary = json_saver.get_vacancies_by_salary(select_salary)
-    #    vacancies_json.extend(salary)
-    #    print(vacancies_json)
-
-    #    select_exception = input("Введите слово исключение для удаления ненужных вакансий:\n")
-    #    del_v = json_saver.delete_vacancy(select_exception)
-    #    vacancies_json.extend(del_v)
-    #    print(vacancies_json)
+        json_saver = JSONWorker(vacancies_json)
+        vacancies = json_saver.read_vacancy()
+        print_vacancies(vacancies)
 
     elif select_site == 2:
 
         sj = SuperJob(select_vacancy)
-        sj.get_vacancies(select_pages)
+        if select_pages == '':
+            sj.get_vacancies()
+        else:
+            sj.get_vacancies(int(select_pages))
         vacancies_json.extend(sj.generalization())
-        json_saver = JSONSaver(vacancies_json)
-        all_vacancies = json_saver.read_vacancy()
+        json_saver = JSONWorker(vacancies_json)
+        vacancies = json_saver.read_vacancy()
+        print_vacancies(vacancies)
 
-    for vacancy in all_vacancies:
-        print(vacancy, end='\n')
+    while True:
+        select = input(
+            "1 - Удалить вакансию из списка по названию\n"
+            "2 - Найти вакансии соответствующие требуемой зарплате\n"
+            "3 - Исключить вакансии по слову-исключению\n"
+            "0 - Для выхода\n"
+        )
 
+        if select == "0":
+            break
+        elif select == "1":
+            select_title = input("Введите название удаляемой вакансии:\n")
+            vacancies = json_saver.delete_vacancy(select_title)
+        elif select == "2":
+            select_salary = int(input("Введите желаемую зп:\n"))
+            vacancies = json_saver.get_vacancies_by_salary(select_salary)
+        elif select == "3":
+            select_word = input("Введите слово-исключение\n"
+                                "Например Junior, Middle, Senior:\n")
+            vacancies = json_saver.exception_vacancies(select_word)
+        print_vacancies(vacancies)
 
 
 if __name__ == "__main__":
