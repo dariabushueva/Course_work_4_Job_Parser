@@ -12,9 +12,5 @@ class Saver(ABC):
         pass
 
     @abstractmethod
-    def get_vacancies_by_salary(self, salary):
-        pass
-
-    @abstractmethod
     def delete_vacancy(self, exception):
         pass
