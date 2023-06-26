@@ -14,5 +14,7 @@ def currency_coefficient(currency):
         print(error)
 
 
-
+def print_vacancies(result):
+    for r in result:
+        print(r, end='\n')
 
