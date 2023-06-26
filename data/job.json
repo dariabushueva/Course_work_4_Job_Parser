@@ -1,0 +1,902 @@
+[
+    {
+        "title": "Python Developer",
+        "employer": "B.ART",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81442089",
+        "description": "Участие в проектировании архитектуры. Разработка CRM (back office). Разработка backend (front office). Интеграция API. Адаптация верстки для backend.",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "Own Script",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82349953",
+        "description": "Проектирование архитектуры сервисов, API. Разработка бизнес логики. Оптимизация кода.",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист Python",
+        "employer": "БО-ЭНЕРГО",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82039618",
+        "description": "Разработка приложений по формализациям в виде UML-диаграмм или текстовых заданий. Поддержка разработанных решений. Участие в тестировании и разработке документации.",
+        "salary_from": null,
+        "salary_to": 130000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python Developer",
+        "employer": "OpenWeather Ltd.",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82356194",
+        "description": "Design, develop and maintain new and existing <highlighttext>Python</highlighttext> code in accordance with the coding standards and best practices in one...",
+        "salary_from": 2000,
+        "salary_to": null,
+        "currency": "EUR"
+    },
+    {
+        "title": "Junior Data Analyst / Data Analyst",
+        "employer": "WhoIsBlogger (WIB)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82346986",
+        "description": "Реализация различных проектных задач, связанных со сбором и обработкой данных с использованием SQL. Подготовка и очистка данных для реализации типовых...",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик C# / Python",
+        "employer": "Дубайт",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=71147348",
+        "description": "Разработка систем анализа, обработки и визуализации данных, в т.ч. Big data. Автоматизация бизнес-операций и интеграция с текущими процессами.",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик (аккредитованная компания)",
+        "employer": "Ассоциация IPChain",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81484027",
+        "description": "...придется читать) на <highlighttext>Python</highlighttext> (у нас 3.8). Участие в дальнейшей поддержке и развитии продукта на <highlighttext>Python</highlighttext>. Оценка, декомпозиция задач. ",
+        "salary_from": 270000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "idaproject",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82098823",
+        "description": "Разработкой API. Интеграцией сторонних сервисов. Участием в полном цикле разработки - проектирование, программирование, тестирование, поддержка. Контролированием качества кода.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Программист Python/С++",
+        "employer": "НПК РоТеК",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82276519",
+        "description": "Доработка существующих модулей ПО. Портирование ранее разработанных модулей с <highlighttext>Python</highlighttext> 2 на <highlighttext>Python</highlighttext> 3. Автоматизация функционального тестирования контроллеров и систем...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Программист Python",
+        "employer": "АВ Софт",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82163837",
+        "description": "Мы в поиске программистов <highlighttext>Python</highlighttext> для поддержки и развития наших продуктов, для класса систем: антивирусный мультисканер, Sandbox, Deception. ",
+        "salary_from": null,
+        "salary_to": 300000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "Нейрон",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81657212",
+        "description": "Разработка новых и рефакторинг уже существующих микросервисов (у нас много легаси!). Сопровождение и документирование написанного кода. Взаимодействие с мобильными разработчиками...",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик со знанием Python",
+        "employer": "РОВИ Факторинг Плюс",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82301865",
+        "description": "Участие в проекте по развитию системы управления рисками, проектах по внедрению ИТ-решений в области управления рисками. Разработка, валидация и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+        "employer": "MillionAgents",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81639879",
+        "description": null,
+        "salary_from": null,
+        "salary_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer (FastAPI)",
+        "employer": "КИБЕР-РОМ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=78739557",
+        "description": "Разрабатывать новые сервисы. Участвовать в проектировании архитектуры системы. Проводить code review, рефакторить код, писать тесты. Искать узкие места и улучшать...",
+        "salary_from": null,
+        "salary_to": 300000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "ЭВОЛА",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81324617",
+        "description": "Backend-разработка. Работа под руководством тимлида в дружной кроссфункциональной команде. Участие в создании, поддержке и развитии собственных продуктов. ",
+        "salary_from": 100000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист Python",
+        "employer": "РусЭкспресс",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80400921",
+        "description": "Разработка кода по ТЗ и задачам - интеграции по API, обработка данных, поддержка БД. Настройка исполнения периодических скриптов (программ) и их...",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Middle Python-разработчик",
+        "employer": "AERODISK",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82040028",
+        "description": "Разработка с использованием <highlighttext>Python</highlighttext>3. Поддержание проектов компании. Оптимизация существующих проектов компании. Разработка модулей для управления системами хранения данных и...",
+        "salary_from": 140000,
+        "salary_to": 250000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python (Django, DRF)",
+        "employer": "Фабрика Решений",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81490135",
+        "description": "Внимание: с командами не работаем, только с индивидуальными исполнителями. Профессиональный рост и участие в построении архитектур сложных систем.",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python-разработчик (ядерный)",
+        "employer": "Гексагон",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81971716",
+        "description": "Писать поддерживаемый код и участвовать в поддержании как клиентской, так и серверной части приложения. Разрабатывать и поддерживать web-приложение. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python (Middle+/Senior)",
+        "employer": "Бизнес-Азимут",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81869234",
+        "description": "Проект торговой компании Х5: разработка системы взаимозачета/обмена баллов между системами лояльности клуба Х5 и партнеров. ",
+        "salary_from": 270000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Middle Разработчик Python (Backend)",
+        "employer": "Корпорация ЗНАК",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81974265",
+        "description": "Разработка и поддержка бэкенд-компонентов модуля Честный Знак в системе Odoo. Оптимизация и улучшение производительности существующего кода. Работа в тандеме...",
+        "salary_from": 180000,
+        "salary_to": 240000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Senior Algo Trading Python developer",
+        "employer": "Yenlik",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81307690",
+        "description": "Имплементировать новые, дорабатывать и поддерживать существующие бизнес требования. - Взаимодействовать с трейдерами и квант аналитиками. - Оптимизировать потоки сообщений. - Повышать скорость работы...",
+        "salary_from": 5000,
+        "salary_to": 8000,
+        "currency": "USD"
+    },
+    {
+        "title": "Senior Python Developer",
+        "employer": "АйТи БАСТИОН",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82223082",
+        "description": "Требования: - Имеется опыт разработки и сопровождения продуктов на платформе Linux с применением <highlighttext>Python</highlighttext>, Redis, MQ-сервисов, понимание вопросов развертывания, обновления...",
+        "salary_from": 300000,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "билайн",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82196318",
+        "description": "Фреймворков: Django, FastAPI.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "FPGA разработчик в Райтек (ЦОС)",
+        "employer": "Райтек",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82069322",
+        "description": "Разрабатывать IP ядра на основе DSP алгоритмов. Моделировать алгоритмы при помощи <highlighttext>Python</highlighttext> или Matlab. Внедрять разработанные IP ядра в проекты...",
+        "salary_from": 220000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист Python (Банк)",
+        "employer": "АЙТИ.СПЕЙС",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82299184",
+        "description": "Фронт написан на React, за этим фронтом стоит бэк на Ruby. На <highlighttext>Python</highlighttext> же написан большой слой бизнес- логики между...",
+        "salary_from": 180000,
+        "salary_to": 320000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer (AI)",
+        "employer": "Hunt For You",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82350598",
+        "description": "Writing clean and maintainable <highlighttext>Python</highlighttext> code for the AI sales automation product. Working on the performance and stability of the...",
+        "salary_from": 5500,
+        "salary_to": 7500,
+        "currency": "USD"
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "Sapiens solutions",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81362356",
+        "description": "Реализация бэкенд логики корпоративных систем: управление, ввод данных, аналитический движок (доработка Apache Superset). Принятие архитектурных решений. Доработка опен-сорс проекта...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80122527",
+        "description": "Автоматизировать процесс конфигурирования приложений для балансировки нагрузки сетевого трафика. Разрабатывать интеграции с корпоративными системами. Проектировать и разрабатывать микросервисы, API и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Программист Python",
+        "employer": "Компьютерная Академия Top",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82256133",
+        "description": null,
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Teamlead backend (python)",
+        "employer": "Триафлай",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82357401",
+        "description": "Руководство группой разработчиков (backend) в отделе разработки. ​​​​​​​​​​​​Проведение код-ревью разработчиков. Разработка новых модулей и подсистем приложения. Предложение новых идей...",
+        "salary_from": 300000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python/Python Developer (Senior) Backend",
+        "employer": "Искусственный интеллект",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81802250",
+        "description": "Разработка микросервисов на <highlighttext>python</highlighttext>. Расширение имеющегося функционала. Task-трекинг по системе Kanban. Разработка API.",
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python, удаленно",
+        "employer": "Кадровый центр Президент",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82367414",
+        "description": "Разрабатывать и поддерживать облачную платформу. Автоматизировать процессы, связанные с жизненным циклом компонентов инфраструктуры.",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист Python",
+        "employer": "АНО СМП РЭЙСИНГ (ГОНКИ)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82280782",
+        "description": "Разработка хронометража. Язык программирования <highlighttext>Python</highlighttext>. Необходимо получать данные от клиента Assetto Corsa обо всех пользователях сессии: Времена кругов. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python Developer",
+        "employer": "Телеформ ИС",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81407418",
+        "description": "Участвовать в проектах по разработке крупных автоматизированных систем. Разрабатывать новые и развивать существующие продукты компании. Анализировать написанный код. ",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик/программист (Middle Python Developer)",
+        "employer": "Финмаркет Софт",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82299017",
+        "description": "Разработка сервисов для middle-офиса компании – автоматизация ежедневных расчётов, автоматическое формирование конфигурационных файлов, расчёт показателей и генерация управленческой отчётности (позиции...",
+        "salary_from": 180000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer",
+        "employer": "НОВОСИСТЕМ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82340678",
+        "description": "Анализ API-сторонних сервисов и доработка собственных. Реализация stateless микросервисов. Разработка внутренних библиотек. Оптимизация узких мест в основной архитектуре продукта.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Remote AI Data Scientist",
+        "employer": "Rearden Media Ltd.",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82280658",
+        "description": null,
+        "salary_from": 1700,
+        "salary_to": 7000,
+        "currency": "EUR"
+    },
+    {
+        "title": "Python-разработчик в R&D отдел",
+        "employer": "Селфсек",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=72687478",
+        "description": "Написание чистого, понятного кода. Реализация сетевых клиентов и протоколов по документации. Взаимодействие с исследователями. Покрытие тестами. Написание документации. ",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик в области машинного обучения и больших данных (Data Scientist)",
+        "employer": "Ульянова Надежда Михайловна",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82402348",
+        "description": null,
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик",
+        "employer": "ИНСКОМ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81542736",
+        "description": null,
+        "salary_from": 200000,
+        "salary_to": 230000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Analyst / Продуктовый аналитик",
+        "employer": "Photo Lab",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81974230",
+        "description": "Разработка внутренних сервисов мониторинга бизнес-метрик и аналитических данных. Сегментация пользователей и разработка моделей классификации. Автоматизация ETL (<highlighttext>Python</highlighttext>). ",
+        "salary_from": 130000,
+        "salary_to": 180000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data engineer/Разработчик Python (группа бизнес-аналитики)",
+        "employer": "Rambler&Co",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82312134",
+        "description": "Поддержание работоспособности текущей структуры баз данных, таблиц и скриптов для обработки данных. Выстраивание системы сбора, предобработки и хранения данных веб...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Middle Python Backend Developer",
+        "employer": "24Н Софт",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81834757",
+        "description": null,
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python Developer",
+        "employer": "ГК «ХайТэк»",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82280784",
+        "description": "Разработка и улучшение алгоритмов компилятора тензорного процессора (TPU) управления памятью и планирования исполнения команд на устройстве. Анализ производительности (эффективности) получающихся...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "ОТП Банк, АО (OTP bank)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82309633",
+        "description": "Разработка микросервисов в области роботизированных помощников и телефонии (Naumen Erudit). Разработка backend процедур. Участие в подготовке решения, совместно с системным...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Senior Дата-аналитик (Python)",
+        "employer": "AGIMA",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82303502",
+        "description": "AdHoc-аналитика. Выполнение расчётных задач, обработка данных средствами <highlighttext>Python</highlighttext> и SQL с использованием распределенных хранилищ данных. AdHoc-исследования, изучение внутренних...",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик (Python) систем целевого маркетинга",
+        "employer": "Tele2",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82328106",
+        "description": "Внутренняя разработка и автоматизация процессов. Мониторинг и оптимизация текущих процессов. Подготовка патчей и ведение их до установки в продуктов. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "МЕН ИН ДЕВ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82204513",
+        "description": null,
+        "salary_from": 140000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Full-stack Python-разработчик",
+        "employer": "NVI Solutions LLC",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82255572",
+        "description": "проектирование и разработка внутренней инфраструктуры работы с данными. - разработка фронта для существующих сервисов. - разработка чат-бота для автоматизации внутренних процессов.",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Senior Python разработчик",
+        "employer": "Carbon Soft",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80024403",
+        "description": "Разработка продуктов экосистемы EvaTeam (EvaProject, EvaWiki, EvaServiceDesk). Развивать основной функционал проекта. Участие в улучшении и доработке текущей архитектуры. ",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer / Программист моделей машинного обучения",
+        "employer": "Баззула Рекламные Технологии",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82136567",
+        "description": "Выдвигать и проверять гипотезы для оптимизации и развития направления. — Участвовать в полном цикле жизни модели: обучение -> валидация -> деплой -> непрерывный мониторинг. ",
+        "salary_from": null,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python-разработчик систем сбора",
+        "employer": "Селфсек",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=72687495",
+        "description": "Написание чистого, понятного кода. Реализация систем сбора. Анализ и исправление ошибок. Сопровождение запуска и эксплуатации сборщиков в продакшене.",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82298634",
+        "description": "Мы – команда, которая разрабатывает сервис по автоматическому распознаванию и классификации документов. Наш сервис с помощью различных подходов и современных технологий...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Аналитик пассажирских потоков",
+        "employer": "Правительство Москвы",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81905076",
+        "description": "Сбор и анализ данных по пассажиропотокам в различных плоскостях. Выявление фактов и зависимостей данных, формирование выводов, позволяющих принимать решения для...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик (удаленно)",
+        "employer": "getmatch",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82188788",
+        "description": "Быть частью команды и создавать инструменты, помогающие в разработке других ИТ-продуктов. Писать код на <highlighttext>Python</highlighttext>, который легко читать, поддерживать...",
+        "salary_from": null,
+        "salary_to": 320000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик (удаленно)",
+        "employer": "StormWall™",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80435321",
+        "description": "Разработка микросервисов и REST API сервисов для внутренних нужд компании. Участие в проектировании и создании архитектуры приложений. Ведение документации по...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80879635",
+        "description": "Автоматизация и оптимизация процессов эксплуатации SAN и СХД. Разработка и сопровождение системы мониторинга, отчетности, анализа, оповещения.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик (Django)",
+        "employer": "Российское общество Знание",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=79824429",
+        "description": null,
+        "salary_from": 230000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных / Data scientist",
+        "employer": "СтандартПроект",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=77725684",
+        "description": "40% Доработка процесса оценки алгоритмов с использованием SQL, <highlighttext>Python</highlighttext>, Grafana. 4. 10% Подготовка сложных выгрузок с использованием SQL и <highlighttext>Python</highlighttext>.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "Ambaha Solutions",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82248607",
+        "description": "Реализацию корпоративной системы распределения расходов на open source решениях: Postgres, Clickhouse, Airflow, Superset, JS/<highlighttext>Python</highlighttext>. Реализация бекенд логики корпоративных систем...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python developer (ETL, ЦЕХ)",
+        "employer": "Иннотех, Группа компаний",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81884599",
+        "description": "Участие в разработке архитектуры и создании библиотек ETL Framework для загрузки в DWH Greenplum. Разработка API асинхронных служебных сервисов.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "Ростелеком",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81691813",
+        "description": "Участвовать в проектах по управлению данными, направленных на создание и развития систем класса DWH, MDM, НСИ, а также подключение новых...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "ГИС-разработчик (Python)",
+        "employer": "Российские космические системы",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82106966",
+        "description": "Разработка и развитие ГИС-сервисов. Управление данными дистанционного зондирования в AI-проекте. Разработка плагинов QGIS и баз данных PostgreSQL. ",
+        "salary_from": 150000,
+        "salary_to": 170000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer в стартап web3",
+        "employer": "RaysX Foundation (ИП Гусев Юрий Михайлович)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81676721",
+        "description": "Работа с сервисом по созданию и управлению МаркетМейкинг ботов для торговли криптовалютами. Разработка сервиса конструктора Crowdsale dApp (web3 app...",
+        "salary_from": 2500,
+        "salary_to": 3000,
+        "currency": "USD"
+    },
+    {
+        "title": "Python developer",
+        "employer": "KEDOO Entertainment",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82111591",
+        "description": "...<highlighttext>Python</highlighttext>: от проектирования новой архитектуры до рефакторинга существующего кода, оптимизация. Поиск узких мест, поддержка существующих продуктов компании на языке <highlighttext>Python</highlighttext>. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Engineer (Python)",
+        "employer": "АНО ЦИСМ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81748403",
+        "description": "Центр изучения и сетевого мониторинга молодёжной среды – аккредитованная IT-компания, учреждённая по поручению Президента России в октябре 2018 года. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Senior python developer (SberLB)",
+        "employer": "SberTech",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82389770",
+        "description": "Покрывать код тестами. Участвовать в code review. Делать интеграции с корпоративными системами.",
+        "salary_from": null,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python-разработчик",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82298550",
+        "description": "Проектировать и разрабатывать сервисы квотирования и планирования ресурсов Облачной платформы SberInfra.Cloud. Писать микросервисную архитектуру на <highlighttext>Python</highlighttext>. Оказывать техническую поддержку сервиса.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик (Middle/Senior)",
+        "employer": "Hi, Rockits!",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81085097",
+        "description": "Реализовывать функционал заказчикам на <highlighttext>Python</highlighttext>. Наращивать конкурентное преимущество продукта на рынке. Разрабатывать новые приложения ( архитектура модульная). Оптимизировать производительность веб-проектов. ",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python разработчик (с NodeJS/Go)",
+        "employer": "Иннотех, Группа компаний",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=79736343",
+        "description": "Участвовать в работе в качестве <highlighttext>Python</highlighttext> разработчика. Выполнять функциональные обязанностей в рамках команды. Заниматься разработкой в рамках проектов СУМ. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Engineer направления разработки витрин данных",
+        "employer": "Иннотех, Группа компаний",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=78843112",
+        "description": "Заниматься проектированием и разработкой витрин данных для анализа и моделирования. Заниматься мониторингом и оптимизацией процессов сборки витрин. Заниматься загрузкой и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Аналитик данных / Data Analyst",
+        "employer": "Datanomica",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81968615",
+        "description": "Формированием атрибуты, которые хорошо разделяют випов от других клиентов (используем Greenplum(postgres), Hadoop (spark)). Построением модели (<highlighttext>python</highlighttext>, pyspark). ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Scientist middle+/Senior",
+        "employer": "Мамаева Ирина Анатольевна",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81209237",
+        "description": "Моделирование и обработка данных на <highlighttext>Python</highlighttext> для извлечения бизнес-ценности из данных. Глубокое обсуждение задач и методов их решения совместно...",
+        "salary_from": 250000,
+        "salary_to": 380000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист Python",
+        "employer": "К-ТЕХНОЛОГИИ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=79780601",
+        "description": "Разработка программного обеспечения. Участие в проектировании архитектуры приложений и моделей данных. Интеграция с внешними и внутренними API. Поддержка реализованного функционала. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data-аналитик",
+        "employer": "АНО ЦИСМ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81590397",
+        "description": "Работа с данными - поиск, анализ, разметка, классификация, кластеризация, определение тональности, фиксирование аномалий и другие. Предложение гипотез, проведение экспериментов, разработка решений...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик в команду Integration",
+        "employer": "АВИТО ТЕХ",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82331842",
+        "description": "Работали с кластерными СУБД (Vertica, Snowflake, Clickhouse, StarRocks, Trino и др.). Понимаете, что такое хранилище данных. Работали с инструментами интеграции...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Computer Vision/ML Engineer Custom Research (Junior+)",
+        "employer": "Tevian (ООО Технологии видеоанализа)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82312014",
+        "description": "Более частое переключение между задачами, реализация их с нуля и до приемлемой точности. Отсутствие долговременной работы по повышению точности одного...",
+        "salary_from": 130000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer (Банк)",
+        "employer": "АЙТИ.СПЕЙС",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82092034",
+        "description": "RabbitMQ (работа напрямую через Kombu/Pika) / Kafka - PostgreSQL (написание запросов, отладка, индексы). Оформление в Аккредитованую ИТ Компанию, работа на проекте...",
+        "salary_from": 200000,
+        "salary_to": 330000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Эконометрист/Data scientist (Junior/Middle) в консалтинг",
+        "employer": "БСТ Менеджмент-Консалтинг",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82227099",
+        "description": "Построение моделей эластичности спроса на банковские продукты и моделей прогнозирования в ритейле в т.ч. с учётом гео-аналитических данных. ",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior Data Scientist",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82174408",
+        "description": "Разработка, поддержка и развитие ML-моделей, нейронных сетей для сервисов / продуктов трайба. Анализ данных и проверка гипотез при помощи инструментов...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "МАГНИТ, Розничная сеть",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82108533",
+        "description": "Реализация сложной ролевой модели. Интеграция с API внутренних/внешних сервисов(mytarget/яндекс). Построение restapi-сервисов. Участие в проектировании микросервисной архитектуры. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python (middle)",
+        "employer": "ПроКомплаенс",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82133694",
+        "description": "Основной стэк: админка и ETL-процессы - <highlighttext>Python</highlighttext>, серверная часть - C++, клиентская часть - C#. Задачи, которые предстоит выполнять: Проектирование, разработка и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "INFOWATCH",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82246302",
+        "description": "Участие в полном жизненном цикле разработки линейки продуктов для информационной безопасности. Разработка backend консоли управления линейки продуктов. Развитие и улучшение...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python Backend developer",
+        "employer": "evrone.ru",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81623006",
+        "description": "Влиться в одну из существующих команд разработки и участвовать в создании платёжного сервиса на базе СБП, который встраивается в любое...",
+        "salary_from": null,
+        "salary_to": 280000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Python developer",
+        "employer": "Главгосэкспертиза России",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82105829",
+        "description": "Главгосэкспертиза России — это наша команда, внедряющая высочайшие стандарты качества обоснования решений о капитальных вложениях, экспертизы проектной документации и результатов инженерных...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Engineer (Greenplum)",
+        "employer": "Точка",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81216107",
+        "description": "Выстраивать конвейеры данных от источников до конечного хранилища. Проектировать архитектуру core-слоя и создавать витрины данных. Находить узкие места, оптимизировать...",
+        "salary_from": null,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик Python (Облачные технологии) удаленно",
+        "employer": "Кадровый центр Президент",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82367287",
+        "description": "Разрабатывать и поддерживать облачную платформу. Автоматизировать процессы, связанные с жизненным циклом компонентов инфраструктуры.",
+        "salary_from": 200000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist",
+        "employer": "getmatch",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82107605",
+        "description": "Организовывать сбор данных и наполнение датасетов для построения ML-моделей, следить за их качеством и чистотой. Оценивать качество работы моделей...",
+        "salary_from": null,
+        "salary_to": 450000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Senior Python developer",
+        "employer": "Эрливидео",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81370177",
+        "description": "Участвовать в разработке сложного технологического продукта, который эксплуатируется нашими клиентами в тысячах разных условий. Координировать задачи из трех источников: развитие...",
+        "salary_from": null,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "С++ Developer (Python)",
+        "employer": "МКО Системы",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=73030684",
+        "description": "Реализация и поддержка функционала на C++ по извлечению и расшифровыванию данных из мобильных устройств на основе <highlighttext>Python</highlighttext> прототипов. ",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "ГБУ г. Москвы НИИ организации здравоохранения и медицинского менеджмента ДЗМ г. Москвы",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=49898429",
+        "description": "Подготовка ad-hoc отчетов, визуализация отчетов, формирование презентаций. Участие в представлении результатов работ заказчикам. Написание скриптов на <highlighttext>Python</highlighttext> для экстракции...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python-разработчик",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=75700571",
+        "description": "Разработка решений для обработки данных и организации доступа к данным экосистемы. Участие в разработке Solution архитектур и определении технологических стеков. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python Developer",
+        "employer": "Гринатом",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80963682",
+        "description": "Предстоит улучшать и расширять набор готовых блоков для создания сценариев офисной автоматизации(Web, Excel, Word, SAP и прочие приложения). ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Python - разработчик (Django)",
+        "employer": "Группа Самолет",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=80036283",
+        "description": "Проектировать и разрабатывать веб-приложения компании на <highlighttext>Python</highlighttext> / Django. Самостоятельно декомпозировать задачи бэклога. Оценивать трудоемкость задач вместе с командой. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Middle Backend разработчик (Python + Golang)",
+        "employer": "Tevian (ООО Технологии видеоанализа)",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81456446",
+        "description": "Разработка новых сервисов компьютерного зрения с применением нейронных сетей. Интеграция продуктов компании с системами партнеров. Поддержка и развитие существующих web...",
+        "salary_from": 200000,
+        "salary_to": 285000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Senior / Middle python developer",
+        "employer": "B.ART",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81716522",
+        "description": "Проектирование, реализация и поддержка масштабируемой и надежной fintech системы в области криптовалют. Выбирать решения и обсуждать их на общих собраниях. ",
+        "salary_from": 140000,
+        "salary_to": 450000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Middle/Senior python developer (SberDDI)",
+        "employer": "SberTech",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=82391131",
+        "description": "Разработка архитектуры нового продукта без груза legacy. Разработка сервиса, ежедневно используемого в проде инженерами для решения задач поддержания инфраструктуры. ",
+        "salary_from": null,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data scientist (Антифрод)",
+        "employer": "Домклик",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=81771371",
+        "description": "Анализировать данные и выдвигать гипотезы по новым типам нарушений. Разрабатывать новые механики автоматической проверки объявлений. Оценивать результаты внедренных моделей. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Разработчик Python",
+        "employer": "Киберлэндинг",
+        "url": "https://hh.ru/applicant/vacancy_response?vacancyId=79974184",
+        "description": "Проектирование и разработка backend сервисов со сложной бизнес-логикой. Разработка сервисов хранения, обработки данных различной сложности. Разработка сервисов сбора данных...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    }
+]
