@@ -11,14 +11,16 @@ def main():
                         "2 - SuperJob.ru\n"))
 
     select_vacancy = input("Введите название вакансии: \n")
+    select_city = input("Введите город: \n"
+                        "или нажмите Enter для поиска по России")
     select_pages = input("Введите количество страниц поиска\n"
-                         "Или нажмите Enter для поиска всех вакансий на сайте\n")
+                         "или нажмите Enter для поиска всех вакансий на сайте\n")
 
     vacancies_json = []
 
     if select_site == 1:
 
-        hh = HeadHunter(select_vacancy)
+        hh = HeadHunter(f"{select_vacancy} {select_city}")
         if select_pages == '':
             hh.get_vacancies()
         else:
@@ -30,7 +32,7 @@ def main():
 
     elif select_site == 2:
 
-        sj = SuperJob(select_vacancy)
+        sj = SuperJob(f"{select_vacancy} {select_city}")
         if select_pages == '':
             sj.get_vacancies()
         else:
